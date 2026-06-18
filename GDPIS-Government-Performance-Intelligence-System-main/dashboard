@@ -1,1 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>GDPIS Maturity Dashboard</title>
+</head>
 
+<body>
+
+<h1>GDPIS Departmental Maturity Index</h1>
+
+<table border="1">
+
+<tr>
+<th>Department</th>
+<th>Maturity Score</th>
+<th>Status</th>
+</tr>
+
+<tr>
+<td>Home Affairs</td>
+<td>1.7</td>
+<td>Crisis</td>
+</tr>
+
+<tr>
+<td>Health</td>
+<td>2.8</td>
+<td>Stabilising</td>
+</tr>
+
+<tr>
+<td>Education</td>
+<td>3.4</td>
+<td>Developing</td>
+</tr>
+
+</table>
+
+</body>
+</html>
